@@ -58,10 +58,15 @@ The model utilizes MobileNetV2 pretrained on ImageNet, with added dense layers a
 - **Modified Layers:**  
   - Flatten and Dense layers for classification.  
   - Dropout layers for regularization.  
-- **Output:** Softmax activation with 75 classes.  
-
+- **Output:** Softmax activation with 75 classes.
+### Screenshots:
+**Prediction after base_model training:**
+![image](https://github.com/user-attachments/assets/16debc24-0de1-439c-8a1a-2b113e62d804)
+**Prediction after improved_model training**
 ![image](https://github.com/user-attachments/assets/adbcddb1-8775-42f3-89f3-888301763c09)
 
-![image](https://github.com/user-attachments/assets/245dd9c5-e003-4a19-a4bc-c6d4d9edb8ec)
 
+### Streamlit App Interface:
+**You can try our model in streamlit** https://amlbutterflyclassification-girpaoj9t5wz2ywhfr2mnu.streamlit.app/
+![image](https://github.com/user-attachments/assets/962f4c46-1e49-4da6-88f3-21ed31f3b4c2)
 
