@@ -28,6 +28,7 @@ This project aims to classify 75 species of butterflies using a convolutional ne
 
 ## **Dataset**  
 **Source:** [Kaggle Butterfly Dataset](https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification)  
+![image](https://github.com/user-attachments/assets/273ee348-4d37-477e-a2fe-337c0c7c57a8)
 
 ### Dataset Description:  
 - **Total Images:** 6,499 images of 75 butterfly species.  
@@ -58,5 +59,8 @@ The model utilizes MobileNetV2 pretrained on ImageNet, with added dense layers a
   - Flatten and Dense layers for classification.  
   - Dropout layers for regularization.  
 - **Output:** Softmax activation with 75 classes.  
+
+
+![image](https://github.com/user-attachments/assets/adbcddb1-8775-42f3-89f3-888301763c09)
 
 
