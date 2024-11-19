@@ -1,4 +1,5 @@
 # **Butterfly Image Classification Using MobileNetV2**  
+![image](https://github.com/user-attachments/assets/575f8583-1203-4a51-a9b8-dd7f601bfa41)
 
 This repository contains the code, data preprocessing scripts, and resources for a deep learning project focused on classifying butterfly species using the MobileNetV2 architecture.  
 
