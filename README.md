@@ -61,11 +61,4 @@ The model utilizes MobileNetV2 pretrained on ImageNet, with added dense layers a
   - Dropout layers for regularization.  
 - **Output:** Softmax activation with 75 classes.  
 
----
 
-## **Installation and Setup**  
-
-1. **Clone the Repository:**  
-   ```bash  
-   git clone https://github.com/[your-username]/butterfly-classification.git  
-   cd butterfly-classification  
