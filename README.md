@@ -60,7 +60,9 @@ The model utilizes MobileNetV2 pretrained on ImageNet, with added dense layers a
   - Dropout layers for regularization.  
 - **Output:** Softmax activation with 75 classes.  
 
+![image](https://github.com/user-attachments/assets/fee034ab-1481-4df9-ade8-5320c382466b)
 
 ![image](https://github.com/user-attachments/assets/adbcddb1-8775-42f3-89f3-888301763c09)
+
 
 
