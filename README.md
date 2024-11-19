@@ -10,12 +10,9 @@ This repository contains the code, data preprocessing scripts, and resources for
 2. [Dataset](#dataset)  
 3. [Features](#features)  
 4. [Model Architecture](#model-architecture)  
-5. [Installation and Setup](#installation-and-setup)  
 6. [Usage](#usage)  
 7. [Results](#results)  
-8. [Future Work](#future-work)  
-9. [Contributing](#contributing)  
-10. [License](#license)  
+
 
 ---
 
